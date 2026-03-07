@@ -1,2 +1,21 @@
-# awesome-instagram-tools
-A curated list of useful Instagram marketing and analytics tools.
+# Awesome Instagram Tools
+
+A curated list of useful tools for Instagram creators, marketers, and businesses.
+
+## Analytics Tools
+
+### Instagram Engagement Rate Calculator
+Free tool to calculate Instagram engagement rate based on likes, comments, saves, and followers.
+
+https://www.getfollowernow.com/instagram-engagement-rate-calculator
+
+### Instagram Hashtag Generator
+Generate optimized Instagram hashtags to increase reach and visibility.
+
+https://www.getfollowernow.com/instagram-hashtag-generator
+
+## Marketing Tools
+
+Tools that help creators grow their Instagram audience and analyze content performance.
+
+More tools coming soon.
