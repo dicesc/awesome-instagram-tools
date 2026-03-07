@@ -14,6 +14,11 @@ Generate optimized Instagram hashtags to increase reach and visibility.
 
 https://www.getfollowernow.com/instagram-hashtag-generator
 
+### Instagram Bio Generator
+Create simple, clear bio ideas for creator accounts, personal brands, and business profiles without sounding generic or forced.
+
+https://www.getfollowernow.com/instagram-bio-generator
+
 ## Marketing Tools
 
 Tools that help creators grow their Instagram audience and analyze content performance.
