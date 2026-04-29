@@ -107,6 +107,24 @@ These tools may be useful for:
 
 ---
 
+## Instagram Reels & Stories Downloader
+
+Download Instagram Reels and Stories directly via Telegram — no signup required.
+
+[Cyber Collector](https://t.me/cybercollectorbot) is a Telegram bot that lets you save Instagram Reels and Stories without a watermark, along with videos from TikTok, YouTube Shorts, X/Twitter and Facebook.
+
+Use the bot:
+
+https://t.me/cybercollectorbot
+
+Useful for:
+
+- saving Instagram Reels for offline viewing
+- downloading Stories before they expire
+- downloading content from multiple platforms in one place
+
+---
+
 # Contributing
 
 If you know useful Instagram analytics or marketing tools, feel free to submit a pull request.
