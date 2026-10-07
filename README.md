@@ -33,6 +33,10 @@ Typical use cases:
 
 ---
 
+## Italian Engagement Rate Calculator
+
+[AcquistareFollower.it](https://acquistarefollower.it/tools/engagement-rate) — Free Italian-language calculator for `(likes + comments) / followers, reach, or views × 100`. No signup or profile lookup; values are calculated in the browser. Saves and shares are excluded, and results using different denominators are not directly comparable.
+
 ## Instagram Hashtag Generator
 
 Generate optimized Instagram hashtags based on topic keywords.
