@@ -14,6 +14,7 @@ These tools are helpful for anyone working on:
 ---
 
 # Tools Included
+- [IGDataHub hashtag search](https://igdatahub.com/?tool=hashtag): free lookup of the popular posts, video view counts, related keywords and total post volume for any Instagram hashtag.
 
 ## Instagram Engagement Rate Calculator
 
